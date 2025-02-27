@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/johan.p/javafx-sdk/lib/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
